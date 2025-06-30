@@ -2,7 +2,7 @@
 
 ## ✨ Funcionalidades
 
-- Solicitar o nome do herói e sua quantidade de XP
+- Solicita o nome do herói e sua quantidade de XP
 - Validar a entrada de XP com laço de repetição
 - Classificar o herói em diferentes níveis
 - Exibir a mensagem final com nome e nível do herói
@@ -24,7 +24,7 @@
 
 ## 🙌 Créditos
 
-Projeto desenvolvido como parte de um desafio educacional da Digital Innovation One.
+Projeto desenvolvido como parte de um desafio educacional da [Digital Innovation One](https://www.dio.me/).
 
 ## 🏁 Como executar
 
@@ -33,4 +33,4 @@ Projeto desenvolvido como parte de um desafio educacional da Digital Innovation 
 3. Execute o arquivo com o comando:
 
 ```bash
-node nome-do-arquivo.js
+node index.js
